@@ -30,5 +30,5 @@ operations, this application allows you to add and remove a role to a user.
 
 This project was built with:
  - Java 17
- -Spring Boot 2.7.6
+ - Spring Boot 2.7.6
  - Mysql 8
